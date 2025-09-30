@@ -1,4 +1,4 @@
-package com.cadt.portal.dto.request;
+package com.cadt.portal.dto.response;
 
 import java.util.Set;
 
